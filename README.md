@@ -16,7 +16,6 @@ The goals of this analysis are to:
 All work is implemented in **`Analysis.R`**.
 
 ---
-
 ## 📁 Project Structure
 
 - Analysis.R # Main script: cleaning, modeling, clustering, plots
@@ -26,6 +25,15 @@ All work is implemented in **`Analysis.R`**.
 - Makefile # Reproducible build
 - Dockerfile # Docker environment
 - README.md # Documentation
+---
+
+# 🐳 Running the project in Docker
+- docker run 611-used-cars Rscript Analysis.R
+- or
+- docker run 611-used-cars make clean
+- docker run 611-used-cars make all
+
+
 
 
 
