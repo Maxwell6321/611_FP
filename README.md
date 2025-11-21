@@ -19,18 +19,23 @@ All work is implemented in **`Analysis.R`**.
 
 To build the Docker container for this project, run the following command from the root of the `611_FP` repository:
 ```bash
-docker build -t 611-fp
+docker build -t 611-fp .
 ```
 Then, to start an RStudio server inside the container, run:
 ```bash
-docker run -p 8787:8787 -e PASSWORD=rstudio 611-fp
+docker run -p 8787:8787 -e PASSWORD=Shuai611 611-fp
 ```
-Open your browser and go to
-```bash
-docker run -p 8787:8787 -e PASSWORD=rstudio 611-fp
+Open your browser and go to:
+```text
+http://localhost:8787
 ```
 
-To rerun the full analysis (data cleaning, modeling, clustering, and figure generation), first run:
+## 🖥 Running locally without Docker
+
+If you already have R and the required packages installed, you can run the analysis directly from the terminal.
+
+From the root of the `611_FP` repository:
+
 ```bash
 make clean
 make all
