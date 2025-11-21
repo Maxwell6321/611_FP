@@ -1,6 +1,6 @@
 # 611 Final Project – Used Car Price Analysis
 
-This project analyzes a used car dataset (`used_cars.csv`) containing information such as model year, mileage, horsepower, fuel type, transmission, color, accident history, and brand. The data includes 4009 rows (sample size) and 12 variables.
+This project analyzes a used car dataset (`used_cars.csv`) containing information such as model year, mileage, horsepower, fuel type, transmission, color, accident history, and brand. The data includes 4009 observations and 12 variables.
 The goals of this analysis are to:
 
 - Clean and recode raw used car data  
