@@ -18,14 +18,14 @@ All work is implemented in **`Analysis.R`**.
 ---
 
 ## 📁 Project Structure
-.
-├── Analysis.R # Main script: cleaning, modeling, clustering, plots
-├── used_cars.csv # Raw dataset
-├── cleaned_used_cars.csv # Generated dataset (auto-created)
-├── Figures/ # Auto-created directory for plots
-├── Makefile # Reproducible build
-├── Dockerfile # Docker environment
-└── README.md # Documentation
+
+- Analysis.R # Main script: cleaning, modeling, clustering, plots
+- used_cars.csv # Raw dataset
+- cleaned_used_cars.csv # Cleaned dataset
+- Figures/ # Auto-created directory for plots
+- Makefile # Reproducible build
+- Dockerfile # Docker environment
+- README.md # Documentation
 
 
 
