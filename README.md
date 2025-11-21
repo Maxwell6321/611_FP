@@ -7,25 +7,13 @@ The goals of this analysis are to:
 - Build predictive models for log(price) using:
   - Linear Regression  
   - Lasso Regression  
-  - Random Forest (10-fold CV via `caret`)
+  - Random Forest 
 - Perform correlation analysis for continuous variables  
 - Conduct mixed-type clustering (Gower + PAM)
 - Visualize model performance and cluster structure
 - Ensure full reproducibility through Makefile + Docker
 
 All work is implemented in **`Analysis.R`**.
-
----
-## 📁 Project Structure
-
-- Analysis.R # Main script: cleaning, modeling, clustering, plots
-- used_cars.csv # Raw dataset
-- cleaned_used_cars.csv # Cleaned dataset
-- Figures/ # Auto-created directory for plots
-- Makefile # Reproducible build
-- Dockerfile # Docker environment
-- README.md # Documentation
----
 
 # 🐳 Running the project in Docker
 
