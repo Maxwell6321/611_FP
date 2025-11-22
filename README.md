@@ -41,6 +41,14 @@ make clean
 make all
 ```
 
+## 🖥 Running on MacOS
+
+If you are using M1/M2 chips, run: 
+```bash
+docker build --platform linux/amd64 -t 611-fp .
+docker run --rm --platform linux/amd64 -v "$(pwd)":/home/rstudio/611_FP 611-fp make clean
+docker run --rm --platform linux/amd64 -v "$(pwd)":/home/rstudio/611_FP 611-fp make all
+```
 
 
 
