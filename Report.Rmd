@@ -33,6 +33,7 @@ library(randomForest)
 library(glmnet)
 library(reshape2)
 library(cluster)
+library(elasticnet)
 ```
 
 ```{r, include=FALSE}

@@ -306,7 +306,7 @@
 "305","Economy",2009,167300,"Gasoline",190,"Automatic","Silver/Gray","Black","NoAccident",8.74033674273045
 "306","Economy",2015,71000,"Gasoline",420,"Automatic","Black","Brown","Accident",10.4912464392747
 "307","Premium",2022,33000,"Gasoline",228,"Automatic","Other","Black","NoAccident",10.3089193267554
-"308","Economy",2013,68325,"Gasoline",180,"Automatic","Silver/Gray","Gray","NoAccident",9.3922451752738
+"308","Economy",2013,68325,"Gasoline",180,"Automatic","Silver/Gray","Gray","NoAccident",9.39224517527379
 "309","UltraLuxury",2021,34365,"Gasoline",410,"Automatic","Silver/Gray","Gray","Accident",10.77895628989
 "310","Premium",2018,32000,"Gasoline",208,"Automatic","Black","Black","NoAccident",10.7121930737303
 "311","Economy",2020,22500,"Gasoline",316,"Automatic","Black","White","NoAccident",10.8197782844103
@@ -471,7 +471,7 @@
 "470","Premium",2012,105500,"Gasoline",412,"Manual","Silver/Gray","Black","NoAccident",9.85219425814858
 "471","Premium",2014,80211,"Gasoline",300,"Automatic","Silver/Gray","Red","Accident",9.79784922051313
 "472","UltraLuxury",2010,25991,"Gasoline",420,"Automatic","Silver/Gray","Black","NoAccident",11.1561790899089
-"473","Premium",2008,73000,"Gasoline",268,"Automatic","Black","Black","NoAccident",9.0359869848314
+"473","Premium",2008,73000,"Gasoline",268,"Automatic","Black","Black","NoAccident",9.03598698483141
 "474","Premium",2018,40989,"Gasoline",320,"Automatic","Black","Other","NoAccident",10.4631033404715
 "475","Economy",2010,102681,"Gasoline",158,"Manual","Red","Black","NoAccident",8.69951474821019
 "476","Economy",2010,123000,"Gasoline",300,"Automatic","Black","Black","Accident",9.53878043690013
@@ -793,7 +793,7 @@
 "792","MidRange",2017,13465,"Gasoline",455,"Automatic","White","Black","NoAccident",10.7121930737303
 "793","Premium",2015,74000,"Gasoline",425,"Manual","Silver/Gray","Black","NoAccident",10.5966347330961
 "794","Economy",2022,24850,"Gasoline",382,"Automatic","Black","Black","NoAccident",10.8887071538491
-"795","Economy",2015,115000,"Gasoline",260,"Automatic","Silver/Gray","Black","NoAccident",9.3922451752738
+"795","Economy",2015,115000,"Gasoline",260,"Automatic","Silver/Gray","Black","NoAccident",9.39224517527379
 "796","Premium",2015,72000,"Gasoline",445,"Automatic","Black","Brown","Accident",10.1849000119743
 "797","Economy",2008,162000,"Gasoline",263,"Manual","Black","Black","Accident",8.77955745588373
 "798","MidRange",2017,47589,"Gasoline",355,"Automatic","Black","Black","NoAccident",10.725467604939
@@ -868,7 +868,7 @@
 "867","MidRange",2022,6700,"Gasoline",455,"Automatic","Silver/Gray","Black","NoAccident",10.5840559508892
 "868","Economy",2018,74150,"Gasoline",420,"Automatic","Yellow/Gold","Brown","NoAccident",10.7144177687525
 "869","Economy",2014,94448,"Hybrid",200,"Automatic","Silver/Gray","Gray","NoAccident",9.68028149926871
-"870","Premium",2015,108000,"Gasoline",310,"Automatic","Black","Brown","NoAccident",9.9033875475358
+"870","Premium",2015,108000,"Gasoline",310,"Automatic","Black","Brown","NoAccident",9.90338754753579
 "871","Premium",2012,118000,"Gasoline",555,"Automatic","White","Other","Accident",9.74096862303835
 "872","MidRange",2020,38800,"Gasoline",550,"Automatic","Black","Black","NoAccident",10.9595402267854
 "873","Premium",2017,55000,"Gasoline",320,"Automatic","White","Black","NoAccident",10.5966347330961
@@ -1037,7 +1037,7 @@
 "1036","MidRange",2014,123000,"Gasoline",306,"Automatic","Red","Black","Accident",9.7981270368783
 "1037","MidRange",2011,130000,"Gasoline",264,"Automatic","Other","Black","Accident",8.85366542803745
 "1038","Economy",2009,143346,"Gasoline",152,"Manual","Black","Black","Accident",8.00636756765025
-"1039","UltraLuxury",2015,112465,"Gasoline",240,"Automatic","White","Beige/Tan","NoAccident",9.3922451752738
+"1039","UltraLuxury",2015,112465,"Gasoline",240,"Automatic","White","Beige/Tan","NoAccident",9.39224517527379
 "1040","Premium",2012,137273,"Gasoline",211,"Automatic","White","Beige/Tan","NoAccident",9.30565055178051
 "1041","MidRange",2018,70780,"Hybrid",308,"CVT","Silver/Gray","Gray","NoAccident",10.4829059677677
 "1042","MidRange",2018,55000,"Gasoline",355,"Automatic","Black","Black","NoAccident",10.5427063910705
@@ -1098,7 +1098,7 @@
 "1097","Economy",2000,26900,"Gasoline",240,"Manual","Silver/Gray","Red","NoAccident",10.4631033404715
 "1098","Economy",2023,600,"Hybrid",437,"Automatic","Other","Black","NoAccident",11.4294895067282
 "1099","Economy",2001,22300,"Gasoline",253,"Automatic","Blue","Gray","NoAccident",10.2576593662567
-"1100","MidRange",2004,171750,"Gasoline",295,"Automatic","White","Beige/Tan","Accident",9.4725507784543
+"1100","MidRange",2004,171750,"Gasoline",295,"Automatic","White","Beige/Tan","Accident",9.47255077845429
 "1101","Economy",2013,76500,"Gasoline",291,"Manual","Black","Black","NoAccident",10.2399597891573
 "1102","Premium",2018,49000,"Gasoline",385,"Automatic","Blue","Brown","Accident",10.668839108845
 "1103","Premium",2011,75000,"Gasoline",525,"Automatic","White","Brown","Accident",11.2118203721863
@@ -1255,7 +1255,7 @@
 "1254","UltraLuxury",2006,19500,"Gasoline",493,"Automatic","Green","Other","NoAccident",11.7675676833438
 "1255","Premium",2014,71000,"Gasoline",240,"Automatic","White","Black","Accident",9.72316399840485
 "1256","Premium",2019,60000,"Gasoline",335,"Automatic","White","Beige/Tan","NoAccident",10.5050675395706
-"1257","UltraLuxury",1998,75539,"Gasoline",201,"Manual","Blue","Beige/Tan","NoAccident",9.3922451752738
+"1257","UltraLuxury",1998,75539,"Gasoline",201,"Manual","Blue","Beige/Tan","NoAccident",9.39224517527379
 "1258","Premium",2017,36000,"Gasoline",280,"Automatic","White","Red","NoAccident",9.95227771670556
 "1259","Economy",2016,42600,"Gasoline",350,"Automatic","Red","Black","Accident",10.3719274598057
 "1260","Premium",2019,64532,"Hybrid",188,"Automatic","Silver/Gray","Gray","Accident",9.87277057987407
@@ -1856,7 +1856,7 @@
 "1855","Premium",2014,78500,"Gasoline",302,"Automatic","Silver/Gray","Black","Accident",9.79255599182885
 "1856","Economy",2022,1067,"Gasoline",315,"Automatic","White","Other","NoAccident",10.77895628989
 "1857","Premium",2017,152000,"Gasoline",290,"Automatic","Silver/Gray","Black","NoAccident",9.64853078469705
-"1858","Economy",2007,97724,"Diesel",350,"Automatic","Red","Gray","NoAccident",9.9033875475358
+"1858","Economy",2007,97724,"Diesel",350,"Automatic","Red","Gray","NoAccident",9.90338754753579
 "1859","Economy",2016,111000,"Gasoline",158,"Automatic","Blue","Black","NoAccident",9.47270463644367
 "1860","Premium",2019,32268,"Gasoline",385,"Automatic","White","Gray","NoAccident",10.7472075915754
 "1861","UltraLuxury",2020,57785,"Hybrid",395,"Automatic","Black","Black","NoAccident",11.0665602342899
@@ -1926,7 +1926,7 @@
 "1925","Premium",2012,108045,"Gasoline",160,"Automatic","Blue","Gray","NoAccident",8.77955745588373
 "1926","Economy",2022,10000,"Gasoline",152,"CVT","White","Black","NoAccident",10.2399597891573
 "1927","Economy",2011,75000,"Gasoline",306,"Automatic","Red","Black","Accident",9.39266192877014
-"1928","Economy",2009,73500,"Gasoline",170,"Automatic","Silver/Gray","Gray","Accident",8.9692874001184
+"1928","Economy",2009,73500,"Gasoline",170,"Automatic","Silver/Gray","Gray","Accident",8.96928740011841
 "1929","UltraLuxury",2018,29850,"Gasoline",550,"Automatic","Silver/Gray","Red","NoAccident",11.4047833063505
 "1930","Economy",2016,135350,"Gasoline",280,"Automatic","White","Beige/Tan","Accident",9.89847501071258
 "1931","Premium",2019,35580,"Hybrid",335,"Automatic","Black","Black","NoAccident",10.8097279485568
@@ -1982,7 +1982,7 @@
 "1981","Economy",2018,29475,"Gasoline",707,"Automatic","Other","Black","NoAccident",11.0508741322318
 "1982","MidRange",2017,78717,"Gasoline",180,"Automatic","Black","Black","NoAccident",9.76995615991161
 "1983","Premium",2021,9142,"Hybrid",430,"Automatic","Black","Gray","NoAccident",11.0267924537946
-"1984","MidRange",2011,106000,"Gasoline",385,"Automatic","Other","Beige/Tan","Accident",9.1484649682581
+"1984","MidRange",2011,106000,"Gasoline",385,"Automatic","Other","Beige/Tan","Accident",9.14846496825809
 "1985","Economy",2016,90000,"Gasoline",210,"Automatic","Silver/Gray","Black","NoAccident",9.72615353725321
 "1986","Premium",2020,18362,"Gasoline",503,"Automatic","Black","Other","NoAccident",11.0020998412042
 "1987","MidRange",2013,164500,"Gasoline",270,"Automatic","White","Black","Accident",9.71111565988867

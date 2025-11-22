@@ -9,7 +9,7 @@ RUN apt-get update && \
 RUN R -e "install.packages(c( \
   'ggplot2', 'dplyr', 'tidyr', 'caret', 'readr', \
   'xgboost', 'stringr', 'randomForest', 'glmnet', \
-  'reshape2', 'cluster' \
+  'reshape2', 'cluster', 'elasticnet' \
   ), dependencies = TRUE)"
 
 # WORKING DIRECTORY

@@ -9,6 +9,7 @@ library(randomForest)
 library(glmnet)
 library(reshape2)
 library(cluster)
+library(elasticnet)
 dat <- read_csv("used_cars.csv")
 
 ## Data Cleaning
